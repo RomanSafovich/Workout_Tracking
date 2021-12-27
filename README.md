@@ -1,5 +1,5 @@
 # Workout_Tracking!
-workout tracker that connects to api spreadsheet and api of exercise website which is working with NLP (Natural Language Process)
+workout tracker that connects to api spreadsheet and api of exercise website which is working with NLP (Neuro-linguistic programming)
 adding which kind of workout we did on particular day
 
 
